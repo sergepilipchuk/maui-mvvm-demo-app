@@ -4,5 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
-# DevExpress Mobile UI for .NET MAUI
 
+# DevExpress MVVM for .NET MAUI
+
+[DevExpress Mobile UI](https://www.devexpress.com/maui/) allows you to use the .NET cross-platform UI toolkit and C# to build native apps for iOS and Android.
+
+![DevExpress Mobile UI for .NET MAUI](./Images/Overview.png)
